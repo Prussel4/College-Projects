@@ -1,0 +1,31 @@
+body{
+	background-color: #ffffcc;
+}
+div{
+	/*border-style: solid;*/
+}
+table, th, td {
+    /*border: 1px solid black;*/
+}
+#MainWrap{
+		display: flex;
+        flex-direction: column;
+        align-items: center;
+
+}
+#HeadWrap{
+	flex: 1;
+    order: 0;
+  	
+}
+#ImageWrap{
+	flex: 1;
+    order: 1;
+	
+}
+
+#LinkWrap{
+	
+    order: 2;
+    align-self: flex-end;
+    }

@@ -1,0 +1,18 @@
+c:\users\paul russell\documents\visual studio 2015\Projects\Calc\Calc\bin\Debug\Calc.exe.config
+c:\users\paul russell\documents\visual studio 2015\Projects\Calc\Calc\bin\Debug\Calc.exe
+c:\users\paul russell\documents\visual studio 2015\Projects\Calc\Calc\bin\Debug\Calc.pdb
+c:\users\paul russell\documents\visual studio 2015\Projects\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+c:\users\paul russell\documents\visual studio 2015\Projects\Calc\Calc\obj\Debug\Calc.Form1.resources
+c:\users\paul russell\documents\visual studio 2015\Projects\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+c:\users\paul russell\documents\visual studio 2015\Projects\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+c:\users\paul russell\documents\visual studio 2015\Projects\Calc\Calc\obj\Debug\Calc.exe
+c:\users\paul russell\documents\visual studio 2015\Projects\Calc\Calc\obj\Debug\Calc.pdb
+C:\Users\Paul Russell\Desktop\c#\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\Paul Russell\Desktop\c#\Calc\Calc\obj\Debug\Calc.exe
+C:\Users\Paul Russell\Desktop\c#\Calc\Calc\obj\Debug\Calc.pdb
+C:\Users\Paul Russell\Desktop\c#\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+C:\Users\Paul Russell\Desktop\c#\Calc\Calc\obj\Debug\Calc.Form1.resources
+C:\Users\Paul Russell\Desktop\c#\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+C:\Users\Paul Russell\Desktop\c#\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+C:\Users\Paul Russell\Desktop\c#\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\Paul Russell\Desktop\c#\Calc\Calc\bin\Debug\Calc.pdb
